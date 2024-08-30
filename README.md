@@ -15,5 +15,4 @@ __All HWs are due on Tuesdays at 12:01 PM. That is the day before class.__ Put l
 * **TA Office:** Fridays 5:00 PM-6:00 PM
 
 ## Current Syllabus 
-
 [Wednesday's Syllabus](https://docs.google.com/document/d/1ZXt8FMhaiqYYmGvcDNUjBjojSmlxxQvEfx2O6vtz7hg)
